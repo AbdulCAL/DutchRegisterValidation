@@ -10,8 +10,7 @@ public class PetInfoAddValidation {
 	/*
 	 * Test Registration Pet Info form
 	 * 
-	 * URL: https://www.dutch.com/
-	 * 
+	 * URL: https://www.dutch.com/ 2222
 	 */
 
 	// Kerim Test Case Dutch Task V01 0201
